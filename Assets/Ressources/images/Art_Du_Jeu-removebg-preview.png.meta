@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 0ab8aebda471be34e8b9ec3d316638d0
+timeCreated: 1729106058
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Art_Du_Jeu-removebg-preview_0
+    21300002: Art_Du_Jeu-removebg-preview_1
+    21300004: Art_Du_Jeu-removebg-preview_2
+    21300006: Art_Du_Jeu-removebg-preview_3
+    21300008: Art_Du_Jeu-removebg-preview_4
+    21300010: Art_Du_Jeu-removebg-preview_5
+    21300012: Art_Du_Jeu-removebg-preview_6
+    21300014: Art_Du_Jeu-removebg-preview_7
+    21300016: Art_Du_Jeu-removebg-preview_8
+    21300018: Art_Du_Jeu-removebg-preview_9
+    21300020: Art_Du_Jeu-removebg-preview_10
+    21300022: Art_Du_Jeu-removebg-preview_11
+    21300024: Art_Du_Jeu-removebg-preview_12
+    21300026: Art_Du_Jeu-removebg-preview_13
+    21300028: Art_Du_Jeu-removebg-preview_14
+    21300030: Art_Du_Jeu-removebg-preview_15
+    21300032: Art_Du_Jeu-removebg-preview_16
+    21300034: Art_Du_Jeu-removebg-preview_17
+    21300036: Art_Du_Jeu-removebg-preview_18
+    21300038: Art_Du_Jeu-removebg-preview_19
+    21300040: Art_Du_Jeu-removebg-preview_20
+    21300042: Art_Du_Jeu-removebg-preview_21
+    21300044: Art_Du_Jeu-removebg-preview_22
+    21300046: Art_Du_Jeu-removebg-preview_23
+    21300048: Art_Du_Jeu-removebg-preview_24
+    21300050: Art_Du_Jeu-removebg-preview_25
+    21300052: Art_Du_Jeu-removebg-preview_26
+    21300054: Art_Du_Jeu-removebg-preview_27
+    21300056: Art_Du_Jeu-removebg-preview_28
+    21300058: Art_Du_Jeu-removebg-preview_29
+    21300060: Art_Du_Jeu-removebg-preview_30
+    21300062: Art_Du_Jeu-removebg-preview_31
+    21300064: Art_Du_Jeu-removebg-preview_32
+    21300066: Art_Du_Jeu-removebg-preview_33
+    21300068: Art_Du_Jeu-removebg-preview_34
+    21300070: Art_Du_Jeu-removebg-preview_35
+    21300072: Art_Du_Jeu-removebg-preview_36
+    21300074: Art_Du_Jeu-removebg-preview_37
+    21300076: Art_Du_Jeu-removebg-preview_38
+    21300078: Art_Du_Jeu-removebg-preview_39
+    21300080: Art_Du_Jeu-removebg-preview_40
+    21300082: Art_Du_Jeu-removebg-preview_41
+    21300084: Art_Du_Jeu-removebg-preview_42
+    21300086: Art_Du_Jeu-removebg-preview_43
+    21300088: Art_Du_Jeu-removebg-preview_44
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 343
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 343
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 343
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 343
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 343
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 343
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 343
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 274
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 274
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 274
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 274
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 274
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 275
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 207
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 207
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 207
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 190
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 207
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 145
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 145
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 145
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 145
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 145
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 79
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 145
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 79
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 80
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 79
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 79
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 7
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 7
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 7
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Art_Du_Jeu-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 7
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
